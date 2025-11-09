@@ -14,10 +14,10 @@
 ```
 
 ## ซอฟแวร์ที่ใช้ในการพัฒนา
-**Visual Studio Code**
+**Visual Studio Code** <p/>
 เป็นซอฟแวร์ที่ใช่ในการเขียนโค้ดเป็นหลัก [Visual Studio Code](https://code.visualstudio.com/).
 
-**renpy**
+**renpy** <p/>
 เป็น visual novel engine สำหรับการทำเกม โดยใช้ภาษา Python เป็นหลัก รองรับได้หลายแพลตฟอร์ม ใช้สำหรับการ launch ให้สามารถทดสอบและเล่นได้ [Renpy](https://www.renpy.org/).
 
 **Python**
@@ -30,8 +30,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfOkoJ9GdoOBAZx_-vovJMG8h-H-VPaso-r1uFn
 https://storage2.me-qr.com/pdf/fc8af4ae-0189-49a4-a4c4-be1701068b39.pdf
 
 ## ผู้ร่วมพัฒนาและทดสอบ
-```
-ผู้เขียนบทและเขียนโค้ด - Fong 
-เขียนโค้ดและทดสอบ - กิตติภูมิ สำราญใจ
-ทดสอบและทำเอกสาร - bam
-```
++ ผู้เขียนบทและเขียนโค้ด - Fong 
++ เขียนโค้ดและทดสอบ - กิตติภูมิ สำราญใจ
++ ทดสอบและทำเอกสาร - bam
