@@ -1,5 +1,5 @@
-# SCHOOL HARMONY 
-# โครงงานคอมพิวเตอร์ เกี่ยวกับการจัดการปัญหาวัยรุ่น
+# SCHOOL HARMONY <p/> 
+โครงงานคอมพิวเตอร์ เกี่ยวกับการจัดการปัญหาวัยรุ่น
 
 <img width="430" height="420" alt="Image" src="https://github.com/user-attachments/assets/6ce1d116-39b6-4dbe-b828-37e56ce24db9" />
 
