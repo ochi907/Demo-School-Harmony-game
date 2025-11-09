@@ -30,9 +30,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSfOkoJ9GdoOBAZx_-vovJMG8h-H-VPaso-r1uFn
 https://storage2.me-qr.com/pdf/fc8af4ae-0189-49a4-a4c4-be1701068b39.pdf
 
 ## ผู้ร่วมพัฒนาและทดสอบ
+```
 ผู้เขียนบทและเขียนโค้ด - Fong 
-  [instragram](https://www.instagram.com/daisulaf/).
 เขียนโค้ดและทดสอบ - กิตติภูมิ สำราญใจ
-  [instragram](https://www.instagram.com/ochilnwza/).
 ทดสอบและทำเอกสาร - bam
-  [instragram](https://www.instagram.com/ohheyimbamby/)
+```
