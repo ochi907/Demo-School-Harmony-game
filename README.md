@@ -2,7 +2,7 @@
 # โครงงานคอมพิวเตอร์ เกี่ยวกับการจัดการปัญหาวัยรุ่น
 
 ![alt text](https://github.com/[ochi907]/[Demo-School-Harmony-game]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[ochi907]/[Demo-School-Harmony-game]/blob/[branch]/tree/main/game/School%20Harmony%20Logo.png?raw=true)
+![alt text](https://github.com/[ochi907]/[Demo-School-Harmony-game]/tree/[branch]/main/game/School%20Harmony%20Logo.png?raw=true)
 Demo-School-Harmony-game/
 
 ## ที่มาและความสำคัญของโครงงาน
