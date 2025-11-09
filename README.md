@@ -19,17 +19,14 @@
 **Visual Studio Code** <p/>
 เป็นซอฟแวร์ที่ใช่ในการเขียนโค้ดเป็นหลัก [Visual Studio Code](https://code.visualstudio.com/).
 
-<br/>
 
 **renpy** <p/>
 เป็น visual novel engine สำหรับการทำเกม โดยใช้ภาษา Python เป็นหลัก รองรับได้หลายแพลตฟอร์ม ใช้สำหรับการ launch ให้สามารถทดสอบและเล่นได้ [Renpy](https://www.renpy.org/).
 
-<br/>
 
 **Python** <p/>
-เป็นภาษาโปรแกรมมิ่งระดับสูง(high level programming language)
+เป็นภาษาโปรแกรมมิ่งระดับสูง(high level programming language)เป็นภาษาที่ง่ายต่อการพัฒนาเกม [Python](https://www.python.org).
 
-<br/>
 
 สามารถกรอกแบบฟอร์มความพึงพอใจได้ที่นี้ 
 https://docs.google.com/forms/d/e/1FAIpQLSfOkoJ9GdoOBAZx_-vovJMG8h-H-VPaso-r1uFnFXBDVFIqAw/viewform <p/>
