@@ -24,7 +24,7 @@
 
 <br/>
 
-**Python**
+**Python** <p/>
 เป็นภาษาโปรแกรมมิ่งระดับสูง(high level programming language)
 
 <br/>
