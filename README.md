@@ -2,8 +2,8 @@
 # โครงงานคอมพิวเตอร์ เกี่ยวกับการจัดการปัญหาวัยรุ่น
 
 ![alt text](https://github.com/[ochi907]/[Demo-School-Harmony-game]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[ochi907]/[Demo-School-Harmony-game]/blob/[branch]/images/School%20Harmony%20Logo.png?raw=true)
-
+![alt text](https://github.com/[ochi907]/[Demo-School-Harmony-game]/blob/[branch]/tree/main/game/School%20Harmony%20Logo.png?raw=true)
+Demo-School-Harmony-game/
 
 ## ที่มาและความสำคัญของโครงงาน
   ในปัจจุบันโลกแห่งการศึกษาได้ก้าวหน้าและพัฒนาไปเรื่อย ๆ  รูปแบบการเรียนรู้ก็ต้องปรับปรุงเปลี่ยนแปลงเพื่อให้เข้ากับยุคผุ้เรียนจะมีการเรียนรู้ที่ยืดหยุ่น สร้างสรรค์ ท้าทาย และมีส่วนร่วมในกิจกรรมการเรียนรู้ไปพร้อม ๆ กับผู้สอนไม่ใช่หาหาความรู้จากตำราเพียงอย่างเดียว แต่ปัญหาที่พบคือผู้เรียนมักจะไม่มีความกล้าที่จะแสดงความคิดเห็นหรือตอบคำถามต่าง ๆ จึงทำให้ผลการเรียนรู้ไม่มีประสิทธิภาพเท่าที่ควร
